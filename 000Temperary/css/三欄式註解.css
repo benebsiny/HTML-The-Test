@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap{
+	width: 960px;
+	margin: 0 auto;
+}
+.top_header{
+	height: 150px;
+	background: #64CFDC;
+}
+.top_nav{
+	height: 50px;
+	background: #1D5C72;
+}
+.aside_left{
+	height: 250px;
+	width: 200px;
+	background: #4BE0DE;
+	float: left;
+}
+.section_main{
+	height: 250px;
+	width: 560px;
+	background: #8DCBC0;
+	float: left;
+}
+.aside_right{
+	height: 250px;
+	width: 200px;
+	background: #4BE0DE;
+	float: left;
+}
+.footer_buttom{
+	height: 150px;
+	background: #64CFDC;
+	clear: both;
+}
