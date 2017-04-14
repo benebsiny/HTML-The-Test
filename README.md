@@ -1,2 +1,2 @@
 # HTML-The-Test
-It just a fucking test property.
+It's just a fucking test property.
