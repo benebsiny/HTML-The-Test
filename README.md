@@ -1,2 +1,2 @@
 # HTML-The-Test
-It's just a fucking test repository.
+It's just a test repository.
